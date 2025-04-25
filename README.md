@@ -1,7 +1,5 @@
 # PLP-Python-wk7
 
-# PLP-Python-wk7
-
 ### Task 1: Load and Explore the Dataset
 1. Choose a dataset in CSV format (for example, you can use datasets like the Iris dataset, a sales dataset, or any dataset of your choice).
 2. Load the dataset using pandas.
